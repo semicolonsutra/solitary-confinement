@@ -1,4 +1,6 @@
 solitary-confinement
 ====================
 
-Soliatary Confinement Test Depot
+Solitary Confinement Test Depot
+
+This is a edit for the confinement page.
